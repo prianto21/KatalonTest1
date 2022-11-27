@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Visit Date (Required)_input-group-addon</name>
+   <tag></tag>
+   <elementGuidId>664cf3f4-bd70-4478-bfeb-cae31bec6872</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='appointment']/div/div/form/div[4]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-group-addon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6ccc216e-21b4-4cac-a199-74949b85f929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon</value>
+      <webElementGuid>2d7f7d59-4ea1-4777-91cb-e7ebc442b1b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/div[@class=&quot;input-group date&quot;]/div[@class=&quot;input-group-addon&quot;]</value>
+      <webElementGuid>45a3adc2-430f-4e8a-bf6d-f64cf38a6e5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='appointment']/div/div/form/div[4]/div/div/div</value>
+      <webElementGuid>5a4ceb8a-da69-482b-a93a-dd4260859778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date (Required)'])[1]/following::div[3]</value>
+      <webElementGuid>dac5208f-274c-4083-8bd3-544255a1af0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Comment'])[1]/preceding::div[1]</value>
+      <webElementGuid>2d99b0c8-d519-4545-8054-9135b6215cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book Appointment'])[1]/preceding::div[3]</value>
+      <webElementGuid>648ef5fb-dae0-4c8f-a34e-da0f79a1fe0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div</value>
+      <webElementGuid>16305948-4707-4541-b0b8-dde4987e5548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_18</name>
+   <tag></tag>
+   <elementGuidId>7c643622-f45a-492e-8b15-b0b7cecf37d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[20]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e782558d-b7d1-4f3c-8ca5-c285684d91b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>1463a758-b151-470d-8327-30b9bc671d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>18</value>
+      <webElementGuid>91497b8e-bb16-4783-a9dc-99e9452321fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;datepicker datepicker-dropdown dropdown-menu datepicker-orient-left datepicker-orient-top&quot;]/div[@class=&quot;datepicker-days&quot;]/table[@class=&quot;table-condensed&quot;]/tbody[1]/tr[3]/td[@class=&quot;day&quot;]</value>
+      <webElementGuid>e139f172-e927-4003-8359-63471cbcc57c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[20]</value>
+      <webElementGuid>5c7508cb-3d74-4d6a-91cf-36aec4f1b69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[20]</value>
+      <webElementGuid>54a82e8d-a960-46d0-9768-0d92601e4f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[23]</value>
+      <webElementGuid>50c80c3c-33ee-4664-9631-68fc292f5da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::td[23]</value>
+      <webElementGuid>d927e1f5-af48-4543-8fc2-7e42093a0e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='18']/parent::*</value>
+      <webElementGuid>58feb8f8-cd98-4dab-a272-d6e71537906c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]</value>
+      <webElementGuid>228e4d64-7378-4f05-9866-4429533b8d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '18' or . = '18')]</value>
+      <webElementGuid>46cf21f7-ec86-4565-bcda-5d9d76cddcbf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Demo account_form-control</name>
+   <tag></tag>
+   <elementGuidId>a12b90fc-caab-40a7-bc92-dfc5e549e6ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='John Doe']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>460c174b-ce4a-46ec-b0ed-2b38419d0162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b82d23ab-7e6a-435b-9809-58bd5a3e1dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>58f32ec8-ab5e-4b92-a62e-9d64f9133c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Username</value>
+      <webElementGuid>9776bac9-f64d-41eb-a10c-3c132bb5b574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>demo_username_label</value>
+      <webElementGuid>227e0b34-61a8-4b70-9cf9-012a7949cbf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>John Doe</value>
+      <webElementGuid>a7c98e5e-6cf8-4e02-aecc-9bd2ae9e81c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-offset-3 col-sm-6&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;alert alert-info&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-8&quot;]/div[@class=&quot;input-group&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>d0ccc1ac-44bf-4b77-9279-cbc8c3ec1b7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='John Doe']</value>
+      <webElementGuid>2ac1e7fd-1607-459f-a9aa-8f3efac57bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='login']/div/div/div[2]/form/div/div/div/div/input</value>
+      <webElementGuid>45a6e994-dc02-4bf2-bf61-3bfe2a68abe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>a12e1ef7-20f9-405d-9c8d-280551efdf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Username']</value>
+      <webElementGuid>866455eb-6fd4-4614-995d-e41735c2ccc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
